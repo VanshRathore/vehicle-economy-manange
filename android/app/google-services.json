@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "718440054840",
+    "project_id": "car-eco-5598d",
+    "storage_bucket": "car-eco-5598d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718440054840:android:cac76f65754285f37da6cd",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiW9r8Ua2JkA48-VjUgP6KcEDZSGdjgAM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
